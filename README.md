@@ -1,2 +1,2 @@
 # Dio-desafio-github-primeiro-repositorio
-Pasta para o primeiro desafio do curso DIO
+Repositório criado para o primeiro desafio do curso DIO
